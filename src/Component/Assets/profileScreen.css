@@ -1,0 +1,14 @@
+.profileScreen {
+    margin:auto; 
+    padding:10px;
+    border: 100px;
+    text-align:center;
+    font: 20px arial, sans-serif;
+    /* display: block; */
+    max-width: 500px;
+ }
+
+ #text_name{
+    display: none;
+}
+
